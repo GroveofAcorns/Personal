@@ -204,12 +204,18 @@ position: relative;
     top: 15%;
     position: relative;
     z-index: 1;
+        -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 .list2 {
     bottom: 33%;
     position: relative;
     left: 60%;
      z-index: 2;
+        -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 .buttonlink {
     top: 90%;
@@ -336,12 +342,18 @@ position: relative;
             position: absolute;
             z-index: 1;
             left: 5%;
+                -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
         }
         .list2 {
             top: 50%;
             position: absolute;
             z-index: 2;
             left:5%;
+                -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
         }
      .break {
             top: 20%;
@@ -582,12 +594,18 @@ position: relative;
             position: absolute;
             z-index: 1;
             left: 5%;
+             -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
         }
         .list2 {
             top: 10%;
             position: absolute;
             z-index: 2;
             left:50%;
+                -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
         }
      .break {
             top: 20%;
@@ -699,12 +717,18 @@ position: relative;
                 position: absolute;
                 z-index: 1;
                 left: 5%;
+                 -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
             }
             .list2 {
                 top: 10%;
                 position: absolute;
                 z-index: 2;
                 left:50%;
+                    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
             }
          .break {
                 top: 20%;
