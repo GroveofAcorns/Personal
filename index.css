@@ -318,11 +318,17 @@ position: relative;
         top: 5%;
         position: relative;
         }
-     .list3 {
-            top: 2%;
-            position: relative;
+        .list {
+            top: 10%;
+            position: absolute;
             z-index: 1;
-            left: -5%;
+            left: 5%;
+        }
+        .list2 {
+            top: 50%;
+            position: absolute;
+            z-index: 2;
+            left:5%;
         }
      .break {
             top: 20%;
