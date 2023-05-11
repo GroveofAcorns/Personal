@@ -239,9 +239,9 @@ position: relative;
     }
     .back {
         width: 70%;
-        height: 55%;
+        height: 65%;
         position: absolute;
-        top: 50%;
+        top: 60%;
         left: 50%;
         transform: translate(-50%, -50%);
         background-color: #bfa149;
@@ -303,9 +303,9 @@ position: relative;
     }
     .back2 {
         width: 70%;
-        height: 55%;
+        height: 65%;
         position: absolute;
-        top: 50%;
+        top: 60%;
         left: 50%;
         transform: translate(-50%, -50%);
         background-color: #ffffff;
@@ -318,20 +318,21 @@ position: relative;
         top: 5%;
         position: relative;
         }
-        .list {
+     .list {
             top: 2%;
             position: relative;
             z-index: 1;
             left: -5%;
         }
-        .list2 {
+     .list2 {
             top: 2%;
             position: relative;
             left: 45%;
              z-index: 2;
         }
-        .break {
+     .break {
             top: 20%;
+            left: 10%;
         }
         .buttonlink {
             top: 95%;
