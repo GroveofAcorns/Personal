@@ -323,13 +323,13 @@ position: relative;
         position: relative;
         }
         .list {
-            top: 10%;
+            top: 30%;
             position: absolute;
             z-index: 1;
             left: 5%;
         }
         .list2 {
-            top: 50%;
+            top: 70%;
             position: absolute;
             z-index: 2;
             left:5%;
@@ -443,13 +443,13 @@ position: relative;
         position: relative;
         }
         .list {
-            top: 10%;
+            top: 30%;
             position: absolute;
             z-index: 1;
             left: 5%;
         }
         .list2 {
-            top: 50%;
+            top: 70%;
             position: absolute;
             z-index: 2;
             left:5%;
@@ -551,13 +551,13 @@ position: relative;
         position: relative;
         }
      .list {
-            top: 10%;
+            top: 30%;
             position: absolute;
             z-index: 1;
             left: 5%;
         }
         .list2 {
-            top: 10%;
+            top: 30%;
             position: absolute;
             z-index: 2;
             left:50%;
@@ -659,13 +659,13 @@ position: relative;
             position: relative;
             }
          .list {
-                top: 10%;
+                top: 30%;
                 position: absolute;
                 z-index: 1;
                 left: 5%;
             }
             .list2 {
-                top: 10%;
+                top: 30%;
                 position: absolute;
                 z-index: 2;
                 left:50%;
